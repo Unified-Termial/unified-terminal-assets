@@ -1,2 +1,3 @@
 *.rtf linguist-vendored
 *.iss linguist-vendored
+*/state
