@@ -3,7 +3,7 @@
 ; Non-commercial use only
 
 #define MyAppName "Unified Terminal"
-#define MyAppVersion "0.1.0"
+#define MyAppVersion "0.1.1"
 #define MyAppPublisher "Mealman1551"
 #define MyAppURL "https://github.com/Mealman1551/unified-terminal"
 #define MyAppExeName "unified_terminal.exe"
@@ -31,13 +31,13 @@ ArchitecturesAllowed=x64compatible
 ArchitecturesInstallIn64BitMode=x64compatible
 DisableProgramGroupPage=yes
 LicenseFile=D:\Github Git Repo clones\unified-terminal\LICENSE
-InfoBeforeFile=D:\Zelfgemaakt, en meer\Projecten\unified terminal\before.rtf
-InfoAfterFile=D:\Zelfgemaakt, en meer\Projecten\unified terminal\after.rtf
+InfoBeforeFile=D:\Github Git Repo clones\unified-terminal-assets\before.rtf
+InfoAfterFile=D:\Github Git Repo clones\unified-terminal-assets\after.rtf
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
-OutputDir=D:\Zelfgemaakt, en meer\Projecten\unified terminal
+OutputDir=D:\Github Git Repo clones\unified-terminal-assets\unified terminal
 OutputBaseFilename=unifiedterminal_amd64_setup
-SetupIconFile=D:\Zelfgemaakt, en meer\Projecten\unified terminal\img\UTSETUP.ico
+SetupIconFile=D:\Github Git Repo clones\unified-terminal-assets\img\UTSETUP.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
 
